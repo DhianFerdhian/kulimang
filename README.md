@@ -1,9 +1,10 @@
 # 📌 Final Project RPL – Sistem [Nama Sistem]
 
 ## 👥 Identitas Kelompok
-- **Nama Kelompok :** [1. Dhian Kurnia Ferdiansyah Irawan (701230080)
+- **Nama Kelompok :**
+1. Dhian Kurnia Ferdiansyah Irawan (701230080)
 
-2.	Rega Ardiansyah (701230060)
+2.	Rega Ardiansah (701230060)
 
 3.	Indah Puji Astuti (701230085)
 ]
