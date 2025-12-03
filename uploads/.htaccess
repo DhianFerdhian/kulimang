@@ -1,0 +1,8 @@
+# Allow access to all files in uploads folder
+Order Allow,Deny
+Allow from all
+
+# Prevent PHP execution in uploads folder
+<FilesMatch "\.(php|php5|phtml)$">
+    Deny from all
+</FilesMatch>
