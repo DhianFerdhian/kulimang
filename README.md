@@ -20,5 +20,5 @@ Kulimang adalah sebuah website edukasi yang berisi informasi mengenai alat-alat 
 - Hosting (opsional): **Vercel / Netlify / GitHub Pages**
 
 ---
-![Tampilan Website Kulimang](https://raw.githubusercontent.com/username/kulimang/main/assets/img/tampilan-web.png)
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(100).png)
 
