@@ -23,14 +23,14 @@ yang menyediakan fitur utama:
 # 📘 1. Dokumen Final (PDF)
 Semua dokumen final project juga diunggah dalam folder **/documents**:
 
-- **SRS Final + Design (UML & UI/UX)**  
-- **Product Backlog / Sprint Backlog (untuk Agile)**  
-- **Dokumen Test Case UAT (5 skenario minimal)**  
+- **Backglog Final + Design (UML & UI)**  
+- **Product Backlog / Sprint Backlog**  
+- **Dokumen Test Case UAT**  
 - **Laporan Deployment**  
-- **Laporan Retrospective (jika Agile)**
+- **Laporan Retrospective**
 
 Link PDF:
-- 📄 SRS Final → `documents/SRS_Final.pdf`  
+- 📄 Backglog Final → `documents/SRS_Final.pdf`  
 - 📄 Design UML → `documents/UML_Design.pdf`  
 - 📄 Test Case UAT → `documents/TestCase_UAT.pdf`  
 - 📄 Backlog (Agile) → `documents/Product_Backlog.pdf`  
@@ -41,6 +41,6 @@ Link PDF:
 Diagram arsitektur lengkap tersedia pada dokumen.  
 Berikut versi ringkasnya:
 
----
+Dashboard Utama
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(100).png)
 
