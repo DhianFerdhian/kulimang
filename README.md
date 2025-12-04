@@ -6,17 +6,17 @@
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
   | Dhian Kurnia Ferdiansyah Irawan | Product Backlog, Desain UML |
-  | Indah Puji Astuti | Design (UML, UI) |
+  | Indah Puji Astuti |  |
   | Rega Ardiansyah | Desain (UML dan UI |
 
 
 ## 🎯 Deskripsi Singkat Proyek
 Sistem ini dibuat berdasarkan permintaan dari klien Kelompok 10 dengan tujuan untuk menyelesaikan permasalahan:  
-- [Tuliskan problem per project]  
+- Mencari Kuli untuk menyelesaikan pekerjaan merenovasi rumah
 Solusi yang dikembangkan berupa aplikasi:  
-- [Aplikasi Web / Mobile / Desktop]  
+- Solusi yang dikembangkan berupa Aplikasi Web yang memungkinkan pengguna untuk mencari, memesan kuli untuk merenovasi rumah atau bangunan. yang menyediakan fitur utama:  
 yang menyediakan fitur utama:  
-- Login, Pencarian Kuli, Pemilihan pekerjaan sesuai kebutuhan, pembayaran online
+- Login, Pencarian Kuli, Pemilihan pekerjaan sesuai kebutuhan, upload pekerjaan pembayaran online, pengelolaan data pengguna
 
 ---
 
