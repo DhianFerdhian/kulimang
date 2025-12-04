@@ -1,7 +1,7 @@
 # 📌 Final Project RPL – Kulimang
 
 ## 👥 Identitas Kelompok
-- **Nama Kelompok :*2*
+- **Nama Kelompok :2**
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
@@ -42,5 +42,12 @@ Diagram arsitektur lengkap tersedia pada dokumen.
 Berikut versi ringkasnya:
 
 Dashboard Utama
-![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(100).png)
-
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(85).png)
+Login
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(86).png)
+Dashboard Customer
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
+Dashboard Kuli
+![Tampilan Website Kulimang]()
+Dashboard Customer
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
