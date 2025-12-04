@@ -1,4 +1,7 @@
 # 📌 Final Project RPL – Kulimang
+<p align="center">
+  <img src="assets/banner.jpg" alt="WeddingLink Banner" width="100%">
+</p>
 
 ## 👥 Identitas Kelompok
 - **Nama Kelompok :2**
