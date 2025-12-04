@@ -51,6 +51,6 @@ Login
 Dashboard Customer
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
 Dashboard Kuli
-![Tampilan Website Kulimang]()
+
 Dashboard Customer
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
