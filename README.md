@@ -8,8 +8,7 @@
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | Dhian Kurnia Ferdiansyah Irawan | -Product backlog
-  -Use case diagram -Activity Diagram, Full - stack web developer, Testing Website menghosting website, Demo Website |
+  | Dhian Kurnia Ferdiansyah Irawan | Product backlog, Use case diagram, Activity Diagram, Full - stack web developer, Testing Website, menghosting website, Demo Website |
   | Indah Puji Astuti | Product backlog, Activity diagram, Trello, Desain PPT Presentasi |
   | Rega Ardiansah |  Use case diagram, Activity diagram, Desain UI, arsitektur sistem, Desain PPT Presentasi, Editing Video Demo  |
 
