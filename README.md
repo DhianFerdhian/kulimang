@@ -11,14 +11,13 @@
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | [Nama 1] | Requirement Gathering, SRS |
-  | [Nama 2] | Design (UML, UI) |
-  | [Nama 3] | Implementasi Backend |
-  | [Nama 4] | Implementasi Frontend |
-  | [Nama 5] | Testing & Deployment |
+  | Dhian Kurnia Ferdiansyah Irawan | Requirement Gathering, SRS |
+  | Indah Puji Astuti | Design (UML, UI) |
+  | Rega Ardiansyah | Implementasi Backend |
+
 
 ## 🎯 Deskripsi Singkat Proyek
-Sistem ini dibuat berdasarkan permintaan dari klien (kelompok lain) dengan tujuan untuk menyelesaikan permasalahan:  
+Sistem ini dibuat berdasarkan permintaan dari klien Kelompok dengan tujuan untuk menyelesaikan permasalahan:  
 - [Tuliskan problem per project]  
 Solusi yang dikembangkan berupa aplikasi:  
 - [Aplikasi Web / Mobile / Desktop]  
