@@ -1,22 +1,22 @@
-# 📌 Final Project RPL – Sistem [Nama Sistem]
+# 📌 Final Project RPL – Kulimang
 
 ## 👥 Identitas Kelompok
 - **Nama Kelompok :*2*
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | Dhian Kurnia Ferdiansyah Irawan | Requirement Gathering, SRS |
+  | Dhian Kurnia Ferdiansyah Irawan | Product Backlog, Desain UML |
   | Indah Puji Astuti | Design (UML, UI) |
-  | Rega Ardiansyah | Implementasi Backend |
+  | Rega Ardiansyah | Desain (UML dan UI |
 
 
 ## 🎯 Deskripsi Singkat Proyek
-Sistem ini dibuat berdasarkan permintaan dari klien Kelompok dengan tujuan untuk menyelesaikan permasalahan:  
+Sistem ini dibuat berdasarkan permintaan dari klien Kelompok 10 dengan tujuan untuk menyelesaikan permasalahan:  
 - [Tuliskan problem per project]  
 Solusi yang dikembangkan berupa aplikasi:  
 - [Aplikasi Web / Mobile / Desktop]  
 yang menyediakan fitur utama:  
-- [Login, input data, laporan, dll.]
+- Login, Pencarian Kuli, Pemilihan pekerjaan sesuai kebutuhan, pembayaran online
 
 ---
 
