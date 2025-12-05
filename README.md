@@ -6,11 +6,13 @@
 ## 👥 Identitas Kelompok
 - **Nama Kelompok :2**
 - **Anggota & Jobdesk :**
-  | Nama Anggota | Tugas / Jobdesk |
-  |--------------|-----------------|
-  | Dhian Kurnia Ferdiansyah Irawan | 1. Membuat Product backlog(User Stories, Sprint Execution Log )<br> 2. Desain Use case diagram dan Desain Activity Diagram<br> 3. Full - stack web developer<br>  4. Melakukan hosting website<br> .5 Mendemokan projek Website<br> 6. Melakukan push ke GitHub, membuat repositori, dan mengatur peran maintenance<br>|
-  | Indah Puji Astuti | 1. Membuat Product backlog (Acceptance Criteria(AC) , High level design)<br>  2. Membuat Backglog di Trello<br> 3. Desain PPT Presentasi<br> |
-  | Rega Ardiansah |  1. Desain Use case diagram dan Desain Activity diagram<br> 2. Desain Antar Muka (UI)<br> 3. membuat arsitektur sistem<br>  4. Desain PPT Presentasi<br> |
+  ## 👥 Jobdesk Anggota Tim
+| Nama Anggota | Tugas / Jobdesk |
+|--------------|-----------------|
+| **Dhian Kurnia Ferdiansyah Irawan** | • Membuat Product Backlog (User Stories, Sprint Execution Log) <br> • Desain Use Case Diagram dan Activity Diagram <br> • Full-stack Web Developer <br> • Melakukan hosting website <br> • Mendemokan proyek website <br> • Melakukan push ke GitHub, membuat repository, dan mengatur peran maintenance |
+| **Indah Puji Astuti** | • Membuat Product Backlog (Acceptance Criteria, High Level Design) <br> • Membuat Backlog di Trello <br> • Mendesain PPT Presentasi |
+| **Rega Ardiansah** | • Desain Use Case Diagram dan Activity Diagram <br> • Desain Antarmuka (UI) <br> • Membuat arsitektur sistem <br> • Mendesain PPT Presentasi |
+
 
 
 ## 🎯 Deskripsi Singkat Proyek
@@ -23,21 +25,11 @@ yang menyediakan fitur utama:
 
 ---
 
-# 📘 1. Dokumen Final (PDF)
-Semua dokumen final project juga diunggah dalam folder **/documents**:
+## 📄1. Dokumentasi Lengkap
 
-- **Backglog Final + Design (UML & UI)**  
-- **Product Backlog / Sprint Backlog**  
-- **Dokumen Test Case UAT**  
-- **Laporan Deployment**  
-- **Laporan Retrospective**
-
-Link PDF:
-- 📄 Backglog Final → `documents/SRS_Final.pdf`  
-- 📄 Design UML → `documents/UML_Design.pdf`  
-- 📄 Test Case UAT → `documents/TestCase_UAT.pdf`  
-- 📄 Backlog (Agile) → `documents/Product_Backlog.pdf`  
-
+- 📖 [SRS (Software Requirement Specification)](https://github.com/denikhairulanam/InKos/blob/main/documen/DokumenSRS_Kelompok10.pdf)
+- 🎨 [UI/UX Design Prototype](https://github.com/denikhairulanam/InKos/blob/main/documen/InKos%20(2).png)
+- 🎬 [Demo Video (YouTube)](https://youtu.be/NWGybUuSts8?feature=shared)
 ---
 
 # 🏗 2. Arsitektur Singkat Sistem
@@ -46,10 +38,45 @@ Berikut versi ringkasnya:
 
 Dashboard Utama
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(85).png)
+---
 Login
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(86).png)
+---
 Dashboard Customer
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
+---
 Dashboard Kuli
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(100).png)
+---
 
+## 🔑Akun Demo (Login)
+🔗 **Website KULIMANG:** http://kulimang.wuaze.com
+Gunakan akun berikut jika halaman login diperlukan:
+- Username : Ferdhian(Customer)
+- Password : user123
+- Username : Kuli
+- Password : kuli123
+- Username : Admin
+- Password : password123
+---
+## Link Deployment / Link APK 
+Link Deployment: 
+```bash
+https://github.com/DhianFerdhian/kulimang.git
+```
+
+## 📚 Keterangan Tugas
+
+Project ini dibuat untuk memenuhi **Tugas Final Project** Mata Kuliah Rekayasa Perangkat Lunak
+
+### Dosen Pengampu
+- **Nama:** Dila Nurlaila, M.Kom.
+- **Mata Kuliah:** Rekayasa Perangkat Lunak
+- **Program Studi:** Sistem Informasi
+- **Universitas:** UIN STS Jambi
+
+---
+
+## 📄 Lisensi
+
+© 2025 KULIMANG — TIM 2 Rekayasa Perangkat Lunak
