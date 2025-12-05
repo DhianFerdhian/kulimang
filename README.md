@@ -27,8 +27,8 @@ yang menyediakan fitur utama:
 
 ## 📄1. Dokumentasi Lengkap
 
-- 📖 [SRS (Software Requirement Specification)]()
-- 🎨 [UI/UX Design Prototype]()
+- 📖 [Product Backlog)]()
+- 🎨 [UI Design Prototype]()
 - 🎬 [Demo Video (YouTube)](https://youtu.be/Yxf5aEFYv2w?si=CYGVmlolZbIjYZWU)
 ---
 
