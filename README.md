@@ -8,9 +8,9 @@
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | Dhian Kurnia Ferdiansyah Irawan | Membuat Product backlog<br> Desain Use case diagram<br> Desain Activity Diagram<br> Full - stack web developer<br>  Melakukan hosting website<br> mendemokan projek Website<br> |
-  | Indah Puji Astuti | Membuat Product backlog<br>  Membuat Trello<br> Desain PPT Presentasi<br> |
-  | Rega Ardiansah |  Desain Use case diagram<br> Desain Activity diagram<br> Desain UI<br> arsitektur sistem<br>  Desain PPT Presentasi<br> |
+  | Dhian Kurnia Ferdiansyah Irawan | 1. Membuat Product backlog<br> 2. Desain Use case diagram<br> 3. Desain Activity Diagram<br> 4. Full - stack web developer<br>  5. Melakukan hosting website<br> 6. Mendemokan projek Website<br> 7. Melakukan push ke GitHub, membuat repositori, dan mengatur peran maintenance<br>|
+  | Indah Puji Astuti | 1. Membuat Product backlog<br>  2. Membuat Trello<br> 3. Desain PPT Presentasi<br> |
+  | Rega Ardiansah |  1. Desain Use case diagram<br> 2. Desain Activity diagram<br> 3. Desain Antar Muka (UI)<br> 4. membuat arsitektur sistem<br>  5. Desain PPT Presentasi<br> |
 
 
 ## 🎯 Deskripsi Singkat Proyek
