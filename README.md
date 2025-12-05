@@ -27,8 +27,8 @@ yang menyediakan fitur utama:
 
 ## 📄1. Dokumentasi Lengkap
 
-- 📖 [SRS (Software Requirement Specification)](https://github.com/denikhairulanam/InKos/blob/main/documen/DokumenSRS_Kelompok10.pdf)
-- 🎨 [UI/UX Design Prototype](https://github.com/denikhairulanam/InKos/blob/main/documen/InKos%20(2).png)
+- 📖 [SRS (Software Requirement Specification)]()
+- 🎨 [UI/UX Design Prototype]()
 - 🎬 [Demo Video (YouTube)](https://youtu.be/Yxf5aEFYv2w?si=CYGVmlolZbIjYZWU)
 ---
 
