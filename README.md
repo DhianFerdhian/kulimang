@@ -8,9 +8,9 @@
 - **Anggota & Jobdesk :**
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | Dhian Kurnia Ferdiansyah Irawan | Product backlog, Use case diagram, Activity Diagram, Full - stack web developer, Testing Website, menghosting website, Demo Website |
-  | Indah Puji Astuti | Product backlog, Activity diagram, Trello, Desain PPT Presentasi |
-  | Rega Ardiansah |  Use case diagram, Activity diagram, Desain UI, arsitektur sistem, Desain PPT Presentasi, Editing Video Demo  |
+  | Dhian Kurnia Ferdiansyah Irawan | Membuat Product backlog<br> Desain Use case diagram<br> Desain Activity Diagram<br> Full - stack web developer<br>  Melakukan hosting website<br> mendemokan projek Website<br> |
+  | Indah Puji Astuti | Membuat Product backlog<br>  Membuat Trello<br> Desain PPT Presentasi<br> |
+  | Rega Ardiansah |  Desain Use case diagram<br> Desain Activity diagram<br> Desain UI<br> arsitektur sistem<br>  Desain PPT Presentasi<br> |
 
 
 ## 🎯 Deskripsi Singkat Proyek
@@ -51,6 +51,5 @@ Login
 Dashboard Customer
 ![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
 Dashboard Kuli
+![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(100).png)
 
-Dashboard Customer
-![Tampilan Website Kulimang](https://github.com/DhianFerdhian/kulimang/blob/main/Foto_apk/Screenshot%20(93).png)
