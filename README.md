@@ -29,7 +29,7 @@ yang menyediakan fitur utama:
 
 - 📖 [SRS (Software Requirement Specification)](https://github.com/denikhairulanam/InKos/blob/main/documen/DokumenSRS_Kelompok10.pdf)
 - 🎨 [UI/UX Design Prototype](https://github.com/denikhairulanam/InKos/blob/main/documen/InKos%20(2).png)
-- 🎬 [Demo Video (YouTube)](https://youtu.be/NWGybUuSts8?feature=shared)
+- 🎬 [Demo Video (YouTube)](https://youtu.be/Yxf5aEFYv2w?si=CYGVmlolZbIjYZWU)
 ---
 
 # 🏗 2. Arsitektur Singkat Sistem
