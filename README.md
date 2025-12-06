@@ -27,8 +27,11 @@ yang menyediakan fitur utama:
 
 ## 📄1. Dokumentasi Lengkap
 
-- 📖 [Product Backlog)]()
-- 🎨 [UI Design Prototype]()
+- 📖 [Product Backlog](https://github.com/DhianFerdhian/kulimang/blob/main/Document/Product%20backlog_kelompok%202.docx)
+- 🎨UI Design Prototype
+  [Dashboard Utama](https://github.com/DhianFerdhian/kulimang/blob/main/Document/2.png),
+  [Login](https://github.com/DhianFerdhian/kulimang/blob/main/Document/Gambar%20WhatsApp%202025-12-05%20pukul%2010.58.22_2de4a312.jpg),
+  [Dashboard Admin](https://github.com/DhianFerdhian/kulimang/blob/main/Document/Untitled%20(2).png)
 - 🎬 [Demo Video (YouTube)](https://youtu.be/Yxf5aEFYv2w?si=CYGVmlolZbIjYZWU)
 ---
 
