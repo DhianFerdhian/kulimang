@@ -83,4 +83,4 @@ Project ini dibuat untuk memenuhi **Tugas Final Project** Mata Kuliah Rekayasa P
 
 ## 📄 Lisensi
 
-© 2025 KULIMANG — TIM 2 Rekayasa Perangkat Lunak
+© 2025 KULIMANG — KELOMPOK 2 Rekayasa Perangkat Lunak
